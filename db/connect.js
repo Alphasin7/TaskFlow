@@ -1,7 +1,7 @@
 const mongoose=require('mongoose')
 const connectionString=
 
-'mongodb+srv://tangaraaymen:<password>@nodeexpressproject.8kbuh7h.mongodb.net/TASK-MANAGER?retryWrites=true&w=majority&appName=NodeExpressProject'
+'mongodb+srv://tangaraaymen:<Express!2024>@nodeexpressproject.8kbuh7h.mongodb.net/TASK-MANAGER?retryWrites=true&w=majority&appName=NodeExpressProject'
 
 mongoose
 .connect(connectionString,{
